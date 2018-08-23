@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globoma", "Globoma\Globoma.csproj", "{4C4E4E37-2DDC-438C-901B-16F60BA84D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{2BA0B646-9D7B-4843-971E-4EC0C7C8BD7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4E4E37-2DDC-438C-901B-16F60BA84D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4E4E37-2DDC-438C-901B-16F60BA84D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4E4E37-2DDC-438C-901B-16F60BA84D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4E4E37-2DDC-438C-901B-16F60BA84D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA0B646-9D7B-4843-971E-4EC0C7C8BD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA0B646-9D7B-4843-971E-4EC0C7C8BD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA0B646-9D7B-4843-971E-4EC0C7C8BD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA0B646-9D7B-4843-971E-4EC0C7C8BD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCDFC99-DFE7-407E-8EBA-092D7BE79492}
+	EndGlobalSection
+EndGlobal
