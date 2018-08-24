@@ -38,7 +38,7 @@ namespace Globoma
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{contoller=Conference}/{action=Index}/{id?}");
+                    template: "{controller=Conference}/{action=Index}/{id?}");
             });
         }
     }
