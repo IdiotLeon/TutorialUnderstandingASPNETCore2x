@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Shared.Models;
+using Globoma.Services;
 
 namespace Globoma
 {
@@ -15,6 +17,8 @@ namespace Globoma
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton<IConferenceService, ConferenceMemoryService>();
+            services.AddSingleton<IProposalService, ProposalMemoryService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
