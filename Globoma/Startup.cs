@@ -18,6 +18,7 @@ namespace Globoma
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
             services.AddSingleton<IConferenceService, ConferenceMemoryService>();
             services.AddSingleton<IProposalService, ProposalMemoryService>();
         }
@@ -30,17 +31,11 @@ namespace Globoma
                 app.UseDeveloperExceptionPage();
             }
 
-            app.Use(async (context, next) =>
+            app.UseMvc(routes =>
             {
-                logger.LogInformation("Before second");
-                await next();
-                logger.LogInformation("After second");
-            });
-
-            app.Run(async (context) =>
-            {
-                logger.LogInformation("Second");
-                await context.Response.WriteAsync("Second text");
+                routes.MapRoute(
+                    name: "default",
+                    template: "{contoller=Conference}/{action=Index}/{id?}");
             });
         }
     }
