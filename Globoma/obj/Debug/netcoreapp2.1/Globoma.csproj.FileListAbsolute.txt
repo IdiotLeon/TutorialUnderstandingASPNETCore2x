@@ -1,0 +1,17 @@
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Globoma.deps.json
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Globoma.runtimeconfig.json
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Globoma.runtimeconfig.dev.json
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Globoma.dll
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Globoma.pdb
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Shared.dll
+C:\Project\ASPNETCore2x\Globoma\Globoma\bin\Debug\netcoreapp2.1\Shared.pdb
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.csprojAssemblyReference.cache
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.csproj.CoreCompileInputs.cache
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.RazorAssemblyInfo.cache
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.RazorAssemblyInfo.cs
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.AssemblyInfoInputs.cache
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.AssemblyInfo.cs
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.RazorTargetAssemblyInfo.cache
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.csproj.CopyComplete
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.dll
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Globoma.pdb
