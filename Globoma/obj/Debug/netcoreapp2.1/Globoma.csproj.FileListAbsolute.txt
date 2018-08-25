@@ -31,3 +31,4 @@ C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Razor\Views\Prop
 C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Razor\Views\Proposal\Index.g.cshtml.cs
 C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Razor\Views\Conference\Add.g.cshtml.cs
 C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Razor\Views\Proposal\Add.g.cshtml.cs
+C:\Project\ASPNETCore2x\Globoma\Globoma\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Statistics\Default.g.cshtml.cs

@@ -132,7 +132,7 @@ using Globoma;
             WriteLiteral("    <td>\r\n        ");
             EndContext();
             BeginContext(480, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2b1b89e2fe64292bd104ce69f6f54aa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1683fb3b17f44e4d9d928c23b40ae01c", async() => {
                 BeginContext(563, 9, true);
                 WriteLiteral("Proposals");
                 EndContext();
