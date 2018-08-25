@@ -85,7 +85,7 @@ namespace AspNetCore
             WriteLiteral("</td>\r\n    <td>\r\n        ");
             EndContext();
             BeginContext(202, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1a72f27c62344d678796f0da5358f27f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25a77420c67240429ff714367b25cad1", async() => {
                 BeginContext(285, 9, true);
                 WriteLiteral("Proposals");
                 EndContext();

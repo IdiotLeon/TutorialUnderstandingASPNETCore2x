@@ -26,13 +26,13 @@ namespace Globoma.Controllers
             return View(new ConferenceModel());
         }
 
-        public async Task<IActionResult> Add(ConferenceModel model)
-        {
-            if (ModelState.IsValid)
-            {
-                await service.Add(model);
-            }
-            return RedirectToAction("Index");
-        }
+        //public async Task<IActionResult> Add(ConferenceModel model)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        await service.Add(model);
+        //    }
+        //    return RedirectToAction("Index");
+        //}
     }
 }
