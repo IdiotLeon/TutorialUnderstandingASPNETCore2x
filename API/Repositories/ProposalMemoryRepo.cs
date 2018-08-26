@@ -34,13 +34,13 @@ namespace API.Repositories
                 Title = "ASP.NET Core TagHelpers"
             });
         }
+
         public ProposalModel Add(ProposalModel model)
         {
             model.Id = proposals.Max(p => p.Id) + 1;
             proposals.Add(model);
             return model;
         }
-
 
         public ProposalModel Approve(int proposalId)
         {

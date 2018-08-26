@@ -18,6 +18,7 @@ namespace API.Controller
             this.proposalRepo = proposalRepo;
         }
 
+        [HttpGet("{conferenceId}")]
         public IActionResult GetAll(int conferenceId)
         {
             var proposals = proposalRepo.GetAllForConference(conferenceId);
@@ -30,7 +31,7 @@ namespace API.Controller
             return new ObjectResult(proposals);
         }
 
-        [HttpPost]
+        [HttpGet("{id}", Name = "GetById")]
         public ProposalModel GetById(int id)
         {
             return proposalRepo.GetById(id);
