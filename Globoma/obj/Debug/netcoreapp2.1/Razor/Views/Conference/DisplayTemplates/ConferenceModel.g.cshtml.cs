@@ -24,7 +24,7 @@ using Globoma;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"afc4f43d68b31fb3f9773644a9db74ed9e6b3e5e", @"/Views/Conference/DisplayTemplates/ConferenceModel.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e0cfabe0b49a2ea3b364ec6f27b5c32b3c3b437b", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"22a826bca24665e72dd50a1ac892d710103e3136", @"/Views/_ViewImports.cshtml")]
     public class Views_Conference_DisplayTemplates_ConferenceModel : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Shared.Models.ConferenceModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Proposal", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -132,7 +132,7 @@ using Globoma;
             WriteLiteral("    <td>\r\n        ");
             EndContext();
             BeginContext(480, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1683fb3b17f44e4d9d928c23b40ae01c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e03760120d414414bbb2676663cfe522", async() => {
                 BeginContext(563, 9, true);
                 WriteLiteral("Proposals");
                 EndContext();

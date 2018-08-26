@@ -14,7 +14,7 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"800c1130ded85ccd79f3024e61ed31318e7deb2c", @"/Views/Shared/Components/Statistics/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e0cfabe0b49a2ea3b364ec6f27b5c32b3c3b437b", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"22a826bca24665e72dd50a1ac892d710103e3136", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_Statistics_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Shared.Models.StatisticsModel>
     {
         #pragma warning disable 1998
